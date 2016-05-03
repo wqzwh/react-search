@@ -1,0 +1,1234 @@
+[{
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "149166735170541",
+	"segmentNums": [
+		[{
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "石家庄",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149167080749543,
+			"optSegOuterLength": 54.0,
+			"toId": null,
+			"toName": "石家庄灵寿*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "石家庄灵寿*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149167084089545,
+			"optSegOuterLength": 28.0,
+			"toId": null,
+			"toName": "石家庄行唐*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "石家庄行唐*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149167090030547,
+			"optSegOuterLength": 34.0,
+			"toId": null,
+			"toName": "保定曲阳*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "保定曲阳*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149167101409549,
+			"optSegOuterLength": 40.0,
+			"toId": null,
+			"toName": "保定唐县*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "保定唐县*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149167104589551,
+			"optSegOuterLength": 22.0,
+			"toId": null,
+			"toName": "保定顺平*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "保定顺平*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149167108669553,
+			"optSegOuterLength": 28.0,
+			"toId": null,
+			"toName": "保定满城*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 12,
+			"fromId": null,
+			"fromName": "保定满城*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175457640734,
+			"optSegOuterLength": 21.0,
+			"toId": null,
+			"toName": "保定*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "保定*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175460359738,
+			"optSegOuterLength": 74.0,
+			"toId": null,
+			"toName": "保定易县*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 32,
+			"fromId": null,
+			"fromName": "保定易县*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175465720740,
+			"optSegOuterLength": 57.0,
+			"toId": null,
+			"toName": "保定易县紫荆关*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "保定易县紫荆关*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175469019742,
+			"optSegOuterLength": 68.0,
+			"toId": null,
+			"toName": "保定涞源*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "保定涞源*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175473339744,
+			"optSegOuterLength": 83.0,
+			"toId": null,
+			"toName": "张家口蔚县*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口蔚县*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175509560746,
+			"optSegOuterLength": 61.0,
+			"toId": null,
+			"toName": "张家口蔚县桃花*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口蔚县桃花*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175514099748,
+			"optSegOuterLength": 58.0,
+			"toId": null,
+			"toName": "张家口涿鹿*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口涿鹿*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175519059750,
+			"optSegOuterLength": 59.0,
+			"toId": null,
+			"toName": "张家口宣化",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口宣化",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175523399752,
+			"optSegOuterLength": 38.0,
+			"toId": null,
+			"toName": "张家口",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149176466329795,
+			"optSegOuterLength": 63.0,
+			"toId": null,
+			"toName": "张家口崇礼*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口崇礼*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175627599754,
+			"optSegOuterLength": 78.0,
+			"toId": null,
+			"toName": "张家口赤诚赤城*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口赤诚赤城*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175642779756,
+			"optSegOuterLength": 75.0,
+			"toId": null,
+			"toName": "张家口赤诚白草*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "张家口赤诚白草*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175677310758,
+			"optSegOuterLength": 82.0,
+			"toId": null,
+			"toName": "承德丰宁*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "承德丰宁*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175710250760,
+			"optSegOuterLength": 73.0,
+			"toId": null,
+			"toName": "承德丰宁凤山*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "承德丰宁凤山*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175714469762,
+			"optSegOuterLength": 71.0,
+			"toId": null,
+			"toName": "承德隆化*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "承德隆化*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175719969764,
+			"optSegOuterLength": 72.0,
+			"toId": null,
+			"toName": "承德*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "承德*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175907239767,
+			"optSegOuterLength": 56.0,
+			"toId": null,
+			"toName": "承德县*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "承德县*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175921059770,
+			"optSegOuterLength": 68.0,
+			"toId": null,
+			"toName": "承德宽城*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "承德宽城*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175926799772,
+			"optSegOuterLength": 84.0,
+			"toId": null,
+			"toName": "秦皇岛青龙*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "秦皇岛青龙*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175950229774,
+			"optSegOuterLength": 83.0,
+			"toId": null,
+			"toName": "秦皇岛抚宁大新寨*",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 8,
+			"fromId": null,
+			"fromName": "秦皇岛抚宁大新寨*",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 149175962149776,
+			"optSegOuterLength": 57.0,
+			"toId": null,
+			"toName": "秦皇岛",
+			"toType": 0
+		}]
+	],
+	"showTitle": "北京外环光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "159633736745547",
+	"segmentNums": [
+		[{
+			"fiberAmount": 64,
+			"fiberUnusedAmount": 64,
+			"fromId": null,
+			"fromName": "包头",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 159633746815550,
+			"optSegOuterLength": 5.49,
+			"toId": null,
+			"toName": "包头昆区中心机房",
+			"toType": 0
+		}],
+		[{
+			"fiberAmount": 64,
+			"fiberUnusedAmount": 64,
+			"fromId": null,
+			"fromName": "包头",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 159633746815550,
+			"optSegOuterLength": 5.49,
+			"toId": null,
+			"toName": "包头昆区中心机房",
+			"toType": 0
+		}]
+	],
+	"showTitle": "包头网通到包头阿尔丁南引接光缆(北京方向)"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "171472086289329",
+	"segmentNums": [
+		[{
+			"fiberAmount": 648,
+			"fiberUnusedAmount": 606,
+			"fromId": null,
+			"fromName": "北京西单",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 171472373159332,
+			"optSegOuterLength": 18.0,
+			"toId": null,
+			"toName": "北京静安",
+			"toType": 0
+		}]
+	],
+	"showTitle": "北京西单静安长长中继光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "171473948090005",
+	"segmentNums": [
+		[{
+			"fiberAmount": 360,
+			"fiberUnusedAmount": 334,
+			"fromId": null,
+			"fromName": "北京西单",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 171474012920010,
+			"optSegOuterLength": 10.0,
+			"toId": null,
+			"toName": "北京北太平庄",
+			"toType": 0
+		}, {
+			"fiberAmount": 360,
+			"fiberUnusedAmount": 336,
+			"fromId": null,
+			"fromName": "北京北太平庄",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 171474025280018,
+			"optSegOuterLength": 8.0,
+			"toId": null,
+			"toName": "北京静安",
+			"toType": 0
+		}]
+	],
+	"showTitle": "北京西单北太静安长长中继光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "176457489089002",
+	"segmentNums": [
+		[{
+			"fiberAmount": 360,
+			"fiberUnusedAmount": 330,
+			"fromId": null,
+			"fromName": "北京西单",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 176457569119004,
+			"optSegOuterLength": 18.0,
+			"toId": null,
+			"toName": "北京静安",
+			"toType": 0
+		}]
+	],
+	"showTitle": "北京西单(WL-3)静安(OC5)光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {
+		"fiberAmount": {
+			"infoURL": null,
+			"key": "red",
+			"value": "纤芯数量"
+		}
+	},
+	"pid": "177500022209252",
+	"segmentNums": [
+		[{
+			"fiberAmount": 20,
+			"fiberUnusedAmount": 4,
+			"fromId": null,
+			"fromName": "阜阳人民路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {
+				"fiberAmount": {
+					"infoURL": null,
+					"key": "red",
+					"value": "纤芯数量"
+				}
+			},
+			"optId": null,
+			"optName": null,
+			"optSegId": 177500149879259,
+			"optSegOuterLength": 5.83,
+			"toId": null,
+			"toName": "阜阳北京路",
+			"toType": 0
+		}]
+	],
+	"showTitle": "阜阳人民路北京路光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "187178550009345",
+	"segmentNums": [
+		[{
+			"fiberAmount": 96,
+			"fiberUnusedAmount": 96,
+			"fromId": null,
+			"fromName": "孝感28局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 187178798629356,
+			"optSegOuterLength": 7.65,
+			"toId": null,
+			"toName": "孝感北京路局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局\/孝感香澳路\/孝感北京路局第一中继光缆（虚拟）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "187266149309156",
+	"segmentNums": [
+		[{
+			"fiberAmount": 48,
+			"fiberUnusedAmount": 48,
+			"fromId": null,
+			"fromName": "孝感28局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 187266335079161,
+			"optSegOuterLength": 4.43,
+			"toId": null,
+			"toName": "孝感北京路局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局(经车站路)孝感北京路局01中继光缆（虚拟）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "187269913019277",
+	"segmentNums": [
+		[{
+			"fiberAmount": 48,
+			"fiberUnusedAmount": 18,
+			"fromId": null,
+			"fromName": "孝感28局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 187269969399279,
+			"optSegOuterLength": 4.5,
+			"toId": null,
+			"toName": "孝感北京路局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局-北京路局48芯第一中继光缆（虚拟）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "197977397442065",
+	"segmentNums": [
+		[{
+			"fiberAmount": 72,
+			"fiberUnusedAmount": 24,
+			"fromId": null,
+			"fromName": "南昌孺子路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 197977491492067,
+			"optSegOuterLength": 20.0,
+			"toId": null,
+			"toName": "南昌北京东路",
+			"toType": 0
+		}]
+	],
+	"showTitle": "南昌孺子路??北京东路长长中继光缆（解放路72芯）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "198062260459023",
+	"segmentNums": [
+		[{
+			"fiberAmount": 72,
+			"fiberUnusedAmount": 6,
+			"fromId": null,
+			"fromName": "南昌孺子路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 198062329819026,
+			"optSegOuterLength": 20.0,
+			"toId": null,
+			"toName": "南昌北京东路",
+			"toType": 0
+		}]
+	],
+	"showTitle": "南昌孺子路??北京路长长中继光缆（南京路72芯）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {
+		"SameChimb": {
+			"infoURL": "与合巢芜宣黄光缆光缆 北京路至芜湖县段同沟",
+			"key": "blue",
+			"value": "同沟"
+		}
+	},
+	"pid": "205087671122180",
+	"segmentNums": [
+		[{
+			"fiberAmount": 144,
+			"fiberUnusedAmount": 58,
+			"fromId": null,
+			"fromName": "芜湖北京路",
+			"fromType": 0,
+			"isSameChimb": 1,
+			"markMap": {
+				"SameChimb": {
+					"infoURL": "与合巢芜宣黄光缆光缆 北京路至芜湖县段同沟",
+					"key": "blue",
+					"value": "同沟"
+				}
+			},
+			"optId": null,
+			"optName": null,
+			"optSegId": 205087714452182,
+			"optSegOuterLength": 1.2,
+			"toId": null,
+			"toName": "芜湖微波楼",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖北京路-微波楼144芯光缆1(2006年建)"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "226143832452173",
+	"segmentNums": [
+		[{
+			"fiberAmount": 96,
+			"fiberUnusedAmount": 78,
+			"fromId": null,
+			"fromName": "孝感北京路局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 226143909999175,
+			"optSegOuterLength": 6.81,
+			"toId": null,
+			"toName": "孝感28局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局-北京路局96芯第二中继光缆（虚拟）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "247679524650812",
+	"segmentNums": [
+		[{
+			"fiberAmount": 144,
+			"fiberUnusedAmount": 88,
+			"fromId": null,
+			"fromName": "芜湖北京路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 247679655031836,
+			"optSegOuterLength": 1.2,
+			"toId": null,
+			"toName": "芜湖微波楼",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖北京路-微波楼144芯光缆2(2008年建)"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "298142246171678",
+	"segmentNums": [
+		[{
+			"fiberAmount": 144,
+			"fiberUnusedAmount": 128,
+			"fromId": null,
+			"fromName": "孝感28局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 298142447431768,
+			"optSegOuterLength": 4.6,
+			"toId": null,
+			"toName": "孝感北京路局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局\/城站路\/北京路第三中继144芯光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "331050644289276",
+	"segmentNums": [
+		[{
+			"fiberAmount": 288,
+			"fiberUnusedAmount": 286,
+			"fromId": null,
+			"fromName": "广州北京路机楼",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 331050721169280,
+			"optSegOuterLength": 8.0,
+			"toId": null,
+			"toName": "广州电信大厦",
+			"toType": 0
+		}]
+	],
+	"showTitle": "北京路机楼-电信大厦288F"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "331051244039574",
+	"segmentNums": [
+		[{
+			"fiberAmount": 144,
+			"fiberUnusedAmount": 142,
+			"fromId": null,
+			"fromName": "广州长话分局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 331051319959576,
+			"optSegOuterLength": 3.0,
+			"toId": null,
+			"toName": "广州北京路机楼",
+			"toType": 0
+		}]
+	],
+	"showTitle": "广州北京路机楼-长话机楼144F"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "372213475489003",
+	"segmentNums": [
+		[{
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 34,
+			"fromId": null,
+			"fromName": "孝感北京路局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 372405105680301,
+			"optSegOuterLength": 0.13,
+			"toId": null,
+			"toName": "孝感北京路局前2＃",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 34,
+			"fromId": null,
+			"fromName": "孝感北京路局前2＃",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 372842425429001,
+			"optSegOuterLength": 0.06,
+			"toId": null,
+			"toName": "孝感京89孔",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 34,
+			"fromId": null,
+			"fromName": "孝感京89孔",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 372842428350003,
+			"optSegOuterLength": 0.26,
+			"toId": null,
+			"toName": "孝感第二京汉广北引接点",
+			"toType": 0
+		}]
+	],
+	"showTitle": "第二京汉广孝感北京路局36芯孝昌方向引接光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "372770408410019",
+	"segmentNums": [
+		[{
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 26,
+			"fromId": null,
+			"fromName": "孝感北京路局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 372770444569022,
+			"optSegOuterLength": 0.13,
+			"toId": null,
+			"toName": "孝感北京路局前2＃",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 26,
+			"fromId": null,
+			"fromName": "孝感北京路局前2＃",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 372770448569024,
+			"optSegOuterLength": 0.06,
+			"toId": null,
+			"toName": "孝感京89孔",
+			"toType": 0
+		}, {
+			"fiberAmount": 36,
+			"fiberUnusedAmount": 26,
+			"fromId": null,
+			"fromName": "孝感京89孔",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 372770450489026,
+			"optSegOuterLength": 1.28,
+			"toId": null,
+			"toName": "孝感第二京汉广南引接点",
+			"toType": 0
+		}]
+	],
+	"showTitle": "第二京汉广孝感北京路局36芯武汉方向引接光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "382440319477044",
+	"segmentNums": [
+		[{
+			"fiberAmount": 288,
+			"fiberUnusedAmount": 288,
+			"fromId": null,
+			"fromName": "芜湖微波楼",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 382440455917090,
+			"optSegOuterLength": 0.15,
+			"toId": null,
+			"toName": "芜湖北京路",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖微波楼-北京路288芯光缆4（4楼数据机房-2楼传输机房2007年）"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "387468917189383",
+	"segmentNums": [
+		[{
+			"fiberAmount": 288,
+			"fiberUnusedAmount": 288,
+			"fromId": null,
+			"fromName": "孝感28局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 387468979940407,
+			"optSegOuterLength": 6.03,
+			"toId": null,
+			"toName": "孝感北京路局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局至北京路局应急288芯架空光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "390960947263010",
+	"segmentNums": [
+		[{
+			"fiberAmount": 144,
+			"fiberUnusedAmount": 128,
+			"fromId": null,
+			"fromName": "孝感28局",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 390961121043019,
+			"optSegOuterLength": 7.78,
+			"toId": null,
+			"toName": "孝感北京路局",
+			"toType": 0
+		}]
+	],
+	"showTitle": "孝感28局\/槐荫大道\/北京路局第四中继144芯光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "391033717310099",
+	"segmentNums": [
+		[{
+			"fiberAmount": 288,
+			"fiberUnusedAmount": 288,
+			"fromId": null,
+			"fromName": "广州北京路机楼",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 391033807620101,
+			"optSegOuterLength": 4.0,
+			"toId": null,
+			"toName": "广州较场西",
+			"toType": 0
+		}]
+	],
+	"showTitle": "较场西机楼地下室--北京路机楼地下室(F288C)"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "391537191680854",
+	"segmentNums": [
+		[{
+			"fiberAmount": 216,
+			"fiberUnusedAmount": 214,
+			"fromId": null,
+			"fromName": "芜湖北京路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 391537272510878,
+			"optSegOuterLength": 0.4,
+			"toId": null,
+			"toName": "芜湖新大楼",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖北京路-新大楼216芯光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "391537644200462",
+	"segmentNums": [
+		[{
+			"fiberAmount": 216,
+			"fiberUnusedAmount": 216,
+			"fromId": null,
+			"fromName": "芜湖天门山路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 391537696490486,
+			"optSegOuterLength": 6.0,
+			"toId": null,
+			"toName": "芜湖北京路",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖天门山路-北京路48芯光缆"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "412421380699083",
+	"segmentNums": [
+		[{
+			"fiberAmount": 288,
+			"fiberUnusedAmount": 278,
+			"fromId": null,
+			"fromName": "贵阳中华南路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 412422595821498,
+			"optSegOuterLength": 19.23,
+			"toId": null,
+			"toName": "贵阳金阳新区模块",
+			"toType": 0
+		}]
+	],
+	"showTitle": "中南（北京西路）金阳长长中继光缆288芯"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "429515307799076",
+	"segmentNums": [
+		[{
+			"fiberAmount": 144,
+			"fiberUnusedAmount": 134,
+			"fromId": null,
+			"fromName": "芜湖北京路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 429515318957079,
+			"optSegOuterLength": 0.18,
+			"toId": null,
+			"toName": "芜湖微波楼",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖北京路－微波楼144芯光缆3"
+}, {
+	"beginPoint": null,
+	"beginPointId": null,
+	"endPoint": null,
+	"endPointId": null,
+	"markMap": {},
+	"pid": "434684886874860",
+	"segmentNums": [
+		[{
+			"fiberAmount": 80,
+			"fiberUnusedAmount": 78,
+			"fromId": null,
+			"fromName": "芜湖北京路",
+			"fromType": 0,
+			"isSameChimb": 0,
+			"markMap": {},
+			"optId": null,
+			"optName": null,
+			"optSegId": 434684900307863,
+			"optSegOuterLength": 0.45,
+			"toId": null,
+			"toName": "芜湖新大楼",
+			"toType": 0
+		}]
+	],
+	"showTitle": "芜湖新大楼-北京路144芯光缆4"
+}]

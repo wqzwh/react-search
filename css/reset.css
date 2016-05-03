@@ -1,0 +1,12 @@
+body,div,h1,h2,h3,h4,h5,a,img,strong,span,var,em,ul,li,dt,dd,dl,p,table,tr,th,td,input,option,select,form,textarea{margin:0;padding:0;font-size:12px;font-family:arial,sans-serif,\5FAE\8F6F\96C5\9ED1,\5b8b\4f53;}/*新细明体 微软雅黑 宋体*/
+ul,ol{ list-style:none;}
+a img{border:none;}
+a:focus { outline:0; }
+a{blr:expression(this.onFocus=this.blur()); color:#333333;}
+a{text-decoration:none;}
+ul,ol{list-style-type:none;}
+em,var{font-style:normal;}
+body{width:100%}
+table{border-collapse:collapse;}
+a:hover{text-decoration:underline;color:#FF5500;}
+input, button, select, textarea {outline: 0;}
